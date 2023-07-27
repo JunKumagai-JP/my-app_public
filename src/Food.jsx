@@ -7,7 +7,7 @@ class Food extends React.Component{
     render() {
         return (
             <div>
-                <h1>テトブログの収益でステーキを食べたい3！</h1>
+                <h1>テトブログの収益でステーキを食べたいな！</h1>
             </div>
         )
     }
